@@ -1,0 +1,130 @@
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.AssemblyReference.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.AssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\appsettings.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.exe
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.deps.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.runtimeconfig.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\DnsClient.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\EntityFramework.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Bson.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Driver.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\MongoDbGenericRepository.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\SharpCompress.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Core.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Core.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.Autenticacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.build.Autenticacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Autenticacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Autenticacao.API.props
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\scopedcss\bundle\Autenticacao.API.styles.css
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.CopyComplete
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\refint\Autenticacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.pdb
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.genruntimeconfig.cache
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\ref\Autenticacao.API.dll
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.xml
+C:\Users\Luiz Felipe\Documents\Barber\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\appsettings.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.exe
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.deps.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Autenticacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\DnsClient.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Bson.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Driver.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Driver.Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\MongoDbGenericRepository.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\SharpCompress.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Core.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\bin\Release\net6.0\Core.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.AssemblyReference.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.Autenticacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.build.Autenticacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Autenticacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Autenticacao.API.props
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\scopedcss\bundle\Autenticacao.API.styles.css
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.csproj.CopyComplete
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\refint\Autenticacao.API.dll
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.xml
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.pdb
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\Autenticacao.API.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Pessoal\Apis\services\Autenticacao.API\obj\Release\net6.0\ref\Autenticacao.API.dll

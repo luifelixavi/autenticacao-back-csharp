@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Autenticacao.API</name>
+    </assembly>
+    <members>
+        <member name="M:Autenticacao.API.Configuration.SwaggerConfiguration.AddSwaggerConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Confgurações gerais do Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Autenticacao.API.Configuration.SwaggerConfiguration.UseSwaggerConfiguration(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Configuração do Swagger
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="M:Autenticacao.API.Controllers.AccountController.RefreshToken(System.String)">
+            <summary>
+            Used for extending the life of an access token with the previously received refreshToken.
+            </summary>
+            <param name="refreshToken"></param>
+            <returns>IActionResult</returns>
+        </member>
+        <member name="T:Autenticacao.API.Data.IdentityServerService">
+            <summary>
+            The only service that directly interacts with MongoDB.
+            </summary>
+        </member>
+        <member name="M:Autenticacao.API.Data.IdentityServerService.GetByUserName(System.String)">
+            <summary>
+            Retrieves a user from MongoDB via username.
+            </summary>
+            <param name="userName"></param>
+            <returns>User</returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.IdentityServerService.IsAuthorized(System.String,System.String)">
+            <summary>
+            Checks to see if a user is authorized with a given password.
+            </summary>
+            <param name="userName"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.JwtService.GenerateTokens(System.String,System.String,System.String,System.Collections.Generic.ICollection{System.Security.Claims.Claim},System.DateTime)">
+            <summary>
+            Generates a new token.
+            </summary>
+            <param name="username"></param>
+            <param name="claims"></param>
+            <param name="now"></param>
+            <returns>JwtAuthResult</returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.JwtService.Refresh(System.String,System.String,System.String,System.DateTime)">
+            <summary>
+            Refreshes an existing access token.
+            </summary>
+            <param name="refreshToken"></param>
+            <param name="accessToken"></param>
+            <param name="now"></param>
+            <returns>JwtAuthResult</returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.JwtService.DecodeJwtToken(System.String)">
+            <summary>
+            Decodes the access token so that it can be refreshed.
+            </summary>
+            <param name="token"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.JwtService.GenerateRefreshTokenString">
+            <summary>
+            Generates refresh token via random numbers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Autenticacao.API.Data.UserPasswordHasher">
+            <summary>
+            A service used to help securly store passwords in MongoDB.
+            </summary>
+        </member>
+        <member name="M:Autenticacao.API.Data.UserPasswordHasher.HashPassword(Autenticacao.API.Model.ApplicationUser,System.String)">
+            <summary>
+            Hash a password for 
+            </summary>
+            <param name="user"></param>
+            <param name="password"></param>
+            <returns>string</returns>
+        </member>
+        <member name="M:Autenticacao.API.Data.UserPasswordHasher.VerifyHashedPassword(Autenticacao.API.Model.ApplicationUser,System.String,System.String)">
+            <summary>
+            Used in tandem with HashPassword() in order to check if a provided password matches the user's current password.
+            </summary>
+            <param name="user"></param>
+            <param name="hashedPassword"></param>
+            <param name="providedPassword"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Autenticacao.API.Model.ApplicationCompany.Cnpj">
+            <summary>
+            CNPJ
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.ApplicationCompany.Email">
+            <summary>
+            Email
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.ApplicationCompany.Telefone">
+            <summary>
+            Telefone
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.ApplicationCompany.UrlImage">
+            <summary>
+            Url Image do Perfil
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.ApplicationCompany.Activated">
+            <summary>
+            Ativado?
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.CreateAccount.Cnpj">
+            <summary>
+            CNPJ
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.CreateAccount.Email">
+            <summary>
+            Email
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.CreateAccount.Telefone">
+            <summary>
+            Telefone
+            </summary>
+        </member>
+        <member name="P:Autenticacao.API.Model.CreateAccount.UrlImage">
+            <summary>
+            Url Image do Perfil
+            </summary>
+        </member>
+    </members>
+</doc>
